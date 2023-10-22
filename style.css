@@ -1,0 +1,50 @@
+div {padding: 50px;
+   background-color: #f3f1f1;
+   width: 0 auto;
+   text-align: center;
+   border: 3px solid  #dcdcdc;
+
+   }
+body{margin: 0}   
+
+img {width: 190px;}
+
+h1  {font-size: 30px;
+     text-align: center;
+     font-family: tahoma;
+   }
+
+h2   {font-size: 24px; 
+      font-family: tahoma;
+      text-align: center;
+      
+   }
+
+h3   {font-size: 20px;
+      font-family: tahoma;
+      text-align: center;
+
+   }
+   
+p  {font-size: 18px;
+    font-family:tahoma;
+    text-align:auto;
+    line-height: 28px;
+    margin: 20px auto 35px auto;  
+    width: 930px;
+    }
+
+span {font-weight: bold;
+      color: #333;
+   
+   
+   }
+   
+a  {font-size: 14px;
+    text-align: center;
+   color:#ffffff;
+   padding: 10px;
+   background-color: #25d366;
+   text-decoration: none;
+   border-radius: 15px;
+    }   
